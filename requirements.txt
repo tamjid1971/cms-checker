@@ -1,8 +1,8 @@
-termcolor
-eventlet
-progressbar
-pyfiglet
-argparse
-bs4
-requests
-pyfiglet
+termcolor=1.1.0
+eventlet==0.2
+progressbar2
+pyfiglet==0.8
+argparse==1.4.01
+bs4==0.0.1
+requests>=2.6.0
+pyfiglet==0.7.
